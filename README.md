@@ -1,3 +1,3 @@
 This is what my name card looks like:
 
-<img width="1143" alt="Screenshot 2024-08-13 at 8 41 18 PM" src="https://github.com/user-attachments/assets/ec6c595d-5863-4d75-bad5-fda6f73da461">
+<img width="1144" alt="Screenshot 2025-01-13 at 3 46 58 PM" src="https://github.com/user-attachments/assets/6eef8d74-9a07-462b-b8d2-98d6344759f8" />
