@@ -13,8 +13,8 @@ body {
 }
 
 .rectangle {
-    width: 300px;
-    height: 400px;
+    width: 500px;
+    height: 530px;
     background-color: white;
     border-radius: 10px;
     position: relative;
@@ -36,17 +36,27 @@ body {
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
 }
 h1 {
-    padding-top: 75px;
-    padding-left: 75px;
+    padding-top: 80px;
+    text-align: center;
     background: linear-gradient(to right, #ffbf69,#ff8fa3);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    animation: animate 6s linear;
+}
+@keyframes animate {
+    0%, 10%, 100% {
+        width: 0;
+    }
+    70%, 90% {
+        width: 100%;
+    }
 }
 p {
     
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
     text-align: center;
     font-family: 'Poppins', sans-serif;
+
     
 }
